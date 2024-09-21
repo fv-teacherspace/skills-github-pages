@@ -1,5 +1,6 @@
+---
 title: Learning Github better while doing my startup
-
+---
 # This is the header of my new website
 
 ## Make code not war
